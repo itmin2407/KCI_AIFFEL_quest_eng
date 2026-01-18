@@ -8,7 +8,7 @@
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
         - 업데이트 예시
-         <img width="271" height="268" alt="image" src="https://github.com/user-attachments/assets/00f8a574-5674-46d3-ae1f-ed4ed354a0c7" />
+    
 
 
     
